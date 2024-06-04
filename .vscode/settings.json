@@ -1,0 +1,8 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": null
+    },
+    "python.analysis.extraPaths": [
+        "./Python-Codarme"
+    ]
+}
